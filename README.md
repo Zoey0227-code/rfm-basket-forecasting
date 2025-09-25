@@ -54,6 +54,7 @@ Here are some of the visual insights generated so far:
 
 ## Top Selling Countries
 ![Top Selling Countries](figures/topselling_countries.png)
+
 ---
 
 ## 🚀 Next Steps
