@@ -8,15 +8,21 @@ The goal is to derive actionable insights into customer behavior, product perfor
 ---
 
 ## 📂 Project Structure
-ecommerce_analytics/
-│
-├── data/ # raw dataset
-├── figures/ # saved plots for README & reports
-├── 01_load_eda.ipynb # Data loading & exploratory analysis
-├── 02_rfm_segmentation.ipynb # RFM segmentation (WIP - ignored in repo for now)
-├── LICENSE
-└── README.md
 
+ecommerce_analytics
+/
+
+├── data/ # raw dataset
+
+├── figures/ # saved plots for README & reports
+
+├── 01_load_eda.ipynb # Data loading & exploratory analysis
+
+├── 02_rfm_segmentation.ipynb # RFM segmentation (WIP - ignored in repo for now)
+
+├── LICENSE
+
+└── README.md
 
 ---
 
