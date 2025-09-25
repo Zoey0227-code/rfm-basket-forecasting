@@ -41,28 +41,22 @@ ecommerce_analytics/
 
 ## 📊 Results
 
-Here are some of the visual insights generated so far:  
+Here are some of the visual insights generated so far:
 
-### 1. Daily Revenue Trend
-Tracks daily revenue (excluding returns) across the dataset timeline.
+1. **Daily Revenue Trend**  
+Tracks daily revenue (excluding returns) across the dataset timeline.  
 ![Daily Revenue](figures/daily_revenue.png)
 
----
-
-### 2. Monthly Revenue Trend
-Highlights seasonal patterns and growth/decline trends over time.
+2. **Monthly Revenue Trend**  
+Highlights seasonal patterns and growth/decline trends over time.  
 ![Monthly Revenue](figures/monthly_revenue.png)
 
----
-
-### 3. Top Selling Products
-Bar chart of the products that generate the most revenue.
+3. **Top Selling Products**  
+Bar chart of the products that generate the most revenue.  
 ![Top Products](figures/topselling_products.png)
 
----
-
-### 4. Top Selling Countries
-Bar chart of countries (excluding UK) with the highest contribution to sales.
+4. **Top Selling Countries**  
+Bar chart of countries (excluding UK) with the highest contribution to sales.  
 ![Top Countries](figures/topselling_countries.png)
 
 ---
