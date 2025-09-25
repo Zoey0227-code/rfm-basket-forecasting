@@ -43,17 +43,17 @@ ecommerce_analytics/
 
 Here are some of the visual insights generated so far:
 
-## Daily Revenue
-![Daily Revenue](figures/daily_revenue.png)
+<h3>Daily Revenue</h3>
+<img src="daily_revenue.png" alt="Daily Revenue" width="600"/>
 
-## Monthly Revenue
-![Monthly Revenue](figures/monthly_revenue.png)
+<h3>Monthly Revenue</h3>
+<img src="monthly_revenue.png" alt="Daily Revenue" width="600"/>
 
-## Top Selling Products
-![Top Selling Products](figures/topselling_products.png)
+<h3>Top Selling Products</h3>
+<img src="topselling_products.png" alt="Daily Revenue" width="600"/>
 
-## Top Selling Countries
-![Top Selling Countries](figures/topselling_countries.png)
+<h3>Top Selling Countries</h3>
+<img src="topselling_countries.png" alt="Daily Revenue" width="600"/>
 
 ---
 
