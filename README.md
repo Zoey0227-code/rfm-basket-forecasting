@@ -39,10 +39,9 @@ ecommerce_analytics
 
 - **03_market_basket_analysis.ipynb (Planned)**  
   Will apply association rule mining (Apriori / FP-Growth) to uncover which products are most frequently bought together (useful for cross-selling & recommendation systems).
-  
-- **04_forecasting.ipynb (Planned)**
-  Will build forecasting models (ARIMA, Prophet, LSTM) to predict future revenue trends and support inventory/marketing planning.
 
+- **04_forecasting.ipynb (Planned)**  
+  Will build forecasting models (ARIMA, Prophet, LSTM) to predict future revenue trends and support inventory/marketing planning.
 ---
 
 ## 📊 Results
