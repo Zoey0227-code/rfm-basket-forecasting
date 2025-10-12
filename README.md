@@ -1,3 +1,8 @@
+### 👩‍💻 Author
+**Wei Jou (Zoey) Huang**  
+M.S. in Applied Analytics, Columbia University  
+[LinkedIn](https://www.linkedin.com/in/) • [GitHub](https://github.com/Zoey0227-code)
+
 # 🛒 E-Commerce Analytics: Customer Segmentation & Forecasting
 
 This project explores the **UCI Online Retail dataset** to perform end-to-end e-commerce analytics.  
